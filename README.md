@@ -22,5 +22,5 @@ Anything with a check represents something I have for the project
 - [ ] Receipt Paper
 - [ ] NFC Reader
 
-# Changelog (Descending from Latest Change)
+# Changelog - Latest Change First
 * 23/3/2026: Resolution changed and (successful) general test with Dell HS monitor executed

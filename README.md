@@ -23,4 +23,5 @@ Anything with a check represents something I have for the project
 - [ ] NFC Reader
 
 # Changelog - Latest Change First
+* 30/4/2026: Project placed on the backburner, check my profile README
 * 23/3/2026: Resolution changed and (successful) general test with Dell HS monitor executed
